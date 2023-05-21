@@ -1,4 +1,4 @@
-# MERN EShop
+# Social Media App
 
 ## Frontend Setup
 
