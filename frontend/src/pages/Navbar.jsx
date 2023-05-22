@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Skymedia
+          Sociomedia
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
